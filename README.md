@@ -9,10 +9,10 @@ Key Features of Stream API:
 
 1) Functional (using Lambda expressions).
 
-2)Allowing parallel processing for better performance.
+2) Allowing parallel processing for better performance.
 
 3) Doing lazy evaluation (operations only get executed when required).
 
 4) Providing a clean and readable way to manipulate the data.
 
-The major benefit of Stream API is to reduce the code and increase performance of application.
+   The major benefit of Stream API is to reduce the code and increase performance of application.

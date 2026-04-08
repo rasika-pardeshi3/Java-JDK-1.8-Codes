@@ -1,6 +1,7 @@
 Java Stream API - Coding Practice 
 
 Explain Stream API in Java 8 ?
+
 Stream API is very strong feature of JDK 8 which is used for minimize the boiler plate code as well as it is used for reduce the code and increase the performance of application.
 
 Java 8 introduced the Stream API, which lets a person work functionally on the collections to get them processed efficiently. The operations allowed include filtering, mapping, reducing, and sorting the items using a pipeline without modifying the data source.
